@@ -1,6 +1,8 @@
 # Educação - Landing Page com Next.js & Tailwind CSS
 
-Landing page explicando, da maneira mais clara possível, a sua solução. Dessa forma, se você pensar em alguma plataforma complexa, não será preciso desenvolvê-la por inteiro, basta explicar o seu funcionamento e como ela vai resolver o problema.
+Landing page explicando, da maneira mais clara possível, simples: > "Pensando em construir o futuro, como você solucionaria os problemas de acesso à educação hoje, utilizando a tecnologia?"
+
+> .
 
 ![image](https://github.com/lourranio/educacao-landingpage/blob/9c1a84ce481ba28bad1ed1e7ac37591fceefee67/public/page1.PNG)
 
