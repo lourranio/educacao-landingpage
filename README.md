@@ -2,13 +2,11 @@
 
 Landing page explicando, da maneira mais clara possível, simples: > "Pensando em construir o futuro, como você solucionaria os problemas de acesso à educação hoje, utilizando a tecnologia?"
 
-> .
+> . - ReactJS; - TypeScript; - Next.js; - CSS
 
 ![image](https://github.com/lourranio/educacao-landingpage/blob/9c1a84ce481ba28bad1ed1e7ac37591fceefee67/public/page1.PNG)
 
 ## Como usar ?
-
-Click on the [Use Template](https://github.com/lourranio/educacao-landinpage/generate) button on this page to clone this respository to your github account. Or you can also clone this respository using terminal or bash.
 
 ### 1\. Clone o diretório
 
@@ -19,7 +17,7 @@ git clone https://github.com/lourranio/educacao-landingpage.git
 ### 2\. Diretorio
 
 ```
-cd educacao-landinpage
+cd educacao-landingpage
 ```
 
 ### 3\. Instalar as Dependencias
@@ -39,7 +37,3 @@ npm run dev
 ```
 
 ## Deploy no Netfly
-
-## Autor
-
-lourranio ( [@lourranio](https://github.com/lourranio) )
