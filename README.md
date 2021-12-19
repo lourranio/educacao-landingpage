@@ -2,7 +2,7 @@
 
 Landing page explicando, da maneira mais clara possível, a sua solução. Dessa forma, se você pensar em alguma plataforma complexa, não será preciso desenvolvê-la por inteiro, basta explicar o seu funcionamento e como ela vai resolver o problema.
 
-![image](https://user-images.githubusercontent.com/1884712/121497169-03228680-c990-11eb-975a-e77fddc43de0.png)
+![image](https://github.com/lourranio/educacao-landingpage/blob/9c1a84ce481ba28bad1ed1e7ac37591fceefee67/public/page1.PNG)
 
 ## Como usar ?
 
@@ -11,7 +11,7 @@ Click on the [Use Template](https://github.com/lourranio/educacao-landinpage/gen
 ### 1\. Clone o diretório
 
 ```bash
-git clone https://github.com/lourranio/educacao-landinpage.git
+git clone https://github.com/lourranio/educacao-landingpage.git
 ```
 
 ### 2\. Diretorio
