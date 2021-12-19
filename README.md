@@ -2,8 +2,13 @@
 
 Landing page explicando, da maneira mais clara possível, simples: > "Pensando em construir o futuro, como você solucionaria os problemas de acesso à educação hoje, utilizando a tecnologia?"
 
+Customizado utilizando bibliotecas e scripts em:
+
 > . - ReactJS; - TypeScript; - Next.js; - CSS
 
+.
+Acesse: https://optimistic-lovelace-a19bc8.netlify.app/
+.
 ![image](https://github.com/lourranio/educacao-landingpage/blob/9c1a84ce481ba28bad1ed1e7ac37591fceefee67/public/page1.PNG)
 
 ## Como usar ?

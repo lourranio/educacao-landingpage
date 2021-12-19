@@ -12,23 +12,23 @@ import benefitTwoImg from "../public/img/benefit-two.jpg";
 import benefitThreeImg from "../public/img/benefit-three.jpg";
 
 const benefitOne = {
-  title: "Passo 1 - Candidatura do Aluno",
+  title: "Passo 1 - Doação de Tablets e Chips GSM",
   desc: "Os pais junto com a escola fornecem os dados para que o aluno receba o material de estudo. Aqui o aluno irá receber o Tablet, Chip e demais componentes necessarios ao estudo.",
   image: benefitOneImg,
   bullets: [
     {
-      title: "Candidatura",
-      desc: "O aluno se candidata ao material.",
+      title: "Candidatura e Parceria",
+      desc: "A escola e governo fornecera tablets e acessórios para os alunos apos a escolha do parceiro ou empresa que deseje fornecer servicos para os alunos.",
       icon: <EmojiHappyIcon />,
     },
     {
-      title: "Material de Estudo",
-      desc: "Escolha do material mais adequado.",
+      title: "Tablet",
+      desc: "Como forma de acesso será usando um tablet.",
       icon: <ChartSquareBarIcon />,
     },
     {
-      title: "Foco no material",
-      desc: "Escolha de opções.",
+      title: "Acesso GSM",
+      desc: "Para o acesso a internet sera atraves de chips GSM 4G com acesso a internet.",
       icon: <CursorClickIcon />,
     },
   ],
